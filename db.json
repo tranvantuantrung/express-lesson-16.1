@@ -1,0 +1,83 @@
+{
+  "books": [
+    {
+      "title": "JS",
+      "description": "hỗ trợ học JS",
+      "id": "zCzff0K_Q"
+    },
+    {
+      "title": "CSS",
+      "description": "hỗ trợ học CSS",
+      "id": "x5QL9jlyk"
+    },
+    {
+      "title": "express",
+      "description": "hỗ trợ học express",
+      "id": "NNLRIqpfB"
+    },
+    {
+      "title": "HTML",
+      "description": "hỗ trợ học HTML",
+      "id": "OXjVQ0fOt"
+    },
+    {
+      "title": "ES6",
+      "description": "hỗ trợ học ES6",
+      "id": "xda3bW304"
+    },
+    {
+      "title": "Bootstrap",
+      "description": "hỗ trợ học bootstrap",
+      "id": "Meib26m-I"
+    }
+  ],
+  "users": [
+    {
+      "name": "Trung",
+      "email": "tuantrung@codersx",
+      "password": "4297f44b13955235245b2497399d7a93",
+      "id": "pll81k5dN",
+      "isAdmin": "true"
+    },
+    {
+      "name": "Hieu",
+      "email": "nguyenhieu@gmail.com",
+      "password": "4297f44b13955235245b2497399d7a93",
+      "id": "NC10rNPQ-"
+    },
+    {
+      "name": "Thien",
+      "email": "nguyencongnhathtien@gmail.com",
+      "password": "4297f44b13955235245b2497399d7a93",
+      "id": "gBw2D5SJ8"
+    },
+    {
+      "name": "Minh",
+      "email": "ngovanminh@gmail.com",
+      "password": "4297f44b13955235245b2497399d7a93",
+      "id": "7wCRwFWty"
+    }
+  ],
+  "transactions": [
+    {
+      "bookId": "x5QL9jlyk",
+      "userId": "pll81k5dN",
+      "id": "MzeMvgOtE"
+    },
+    {
+      "bookId": "NNLRIqpfB",
+      "userId": "NC10rNPQ-",
+      "id": "v_QYC6L0V"
+    },
+    {
+      "bookId": "OXjVQ0fOt",
+      "userId": "gBw2D5SJ8",
+      "id": "6wiINTqjW"
+    },
+    {
+      "bookId": "Meib26m-I",
+      "userId": "7wCRwFWty",
+      "id": "o0hrwWDAJ"
+    }
+  ]
+}
